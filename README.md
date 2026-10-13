@@ -4,6 +4,16 @@ Aplikasi **Manajemen Proyek berbasis Gantt Chart** yang dibangun dengan **React 
 
 Semua data disimpan di `localStorage` browser dan tersedia dalam bentuk **data contoh (seed data)** begitu aplikasi dibuka pertama kali.
 
+## 📸 Tampilan
+
+### Tab Gantt Chart
+
+![Gantt Chart](screenshots/gantt-home.png)
+
+### Tab Analisis (jalur kritis & diagram PERT)
+
+![Analisis](screenshots/gantt-analysis.png)
+
 ---
 
 ## ✨ Fitur
